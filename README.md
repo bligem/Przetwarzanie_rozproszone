@@ -10,7 +10,3 @@ chmod 777 na folder i plik i mozna edytować
 WINDOWS
 instalacja nginx |
 odblokowanie portu 80 w firewall (new rule, inbound) 80 -> next next next
-
-
-PROJEKT:
-https://github.com/krzbes/golang-project
